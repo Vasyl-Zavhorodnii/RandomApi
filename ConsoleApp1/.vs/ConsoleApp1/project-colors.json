@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b6bfb67-a7f9-41d2-8bdf-fa454fc74a88": {
+      "ProjectGuid": "9b6bfb67-a7f9-41d2-8bdf-fa454fc74a88",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "3496ba22-4901-4e56-9dee-a5ddd87098f4": {
+      "ProjectGuid": "3496ba22-4901-4e56-9dee-a5ddd87098f4",
+      "DisplayName": "RandomApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
