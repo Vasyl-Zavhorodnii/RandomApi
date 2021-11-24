@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contract\IWordReverseService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\WordMethodLINQReverseService.cs" />
+    <Compile Include="Services\WordQueryLINQReverseService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
